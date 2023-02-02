@@ -37,9 +37,13 @@ Coworking spaces
 - Collective Agency (https://collectiveagency.co/)
 - Factory @ The Ford (Defunct)
 - Forge (Defunct)
+- Industrious (https://www.industriousoffice.com/m/portland)
+     - Custom House (https://www.industriousoffice.com/l/portland/custom-house/220-nw-8th-avenue)
+     - Pioneer Square (https://www.industriousoffice.com/l/portland/pioneer-square/811-sw-sixth-avenue)
 - NedSpace (http://nedspace.com/)
 - openHAUS (https://www.openhauspdx.com/)
 - NXT Industries (Defunct)
+- Radious (https://radious.pro/)
 - Spaces (https://www.spacesworks.com/portland/)
      - Central Eastside
      - Slabtown
